@@ -4,9 +4,9 @@ This repository is a demo project to learn how to set up a GitHub repository.
 
 ## Features
 
-- 
-- 
-- 
+- Readme File
+- Pull Requests
+- Branches
 
 ## Installation
 
